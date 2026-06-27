@@ -6,6 +6,7 @@
 | [Claude Code](https://www.anthropic.com/claude-code) | ✅ | ❌ | ❌ | ❌ | ❌ | Anthropic Claude |
 | [Codex CLI](https://github.com/openai/codex) | ✅ | ❌ | ❌ | ❌ | ❌ | OpenAI |
 | [Gemini CLI](https://github.com/google-gemini/gemini-cli) | ✅ | ❌ | ❌ | ❌ | ❌ | Gemini |
+| [Hephaestus](https://github.com/agentlas-ai/Hephaestus) | ✅ | ❌ | ❌ | ❌ | ❌ | Claude Code, Codex, Cursor |
 | [OpenCode](https://github.com/opencode-ai/opencode) | ✅ | ❌ | ❌ | ❌ | ❌ | OpenAI-compatible |
 | [Plandex](https://github.com/plandex-ai/plandex) | ✅ | ❌ | ❌ | ⚠️ | ❌ | OpenAI, Claude, Gemini |
 | [Goose](https://github.com/block/goose) | ✅ | ❌ | ❌ | ❌ | ✅ | Multi-model |
